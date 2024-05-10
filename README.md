@@ -2,7 +2,7 @@
 
 ## Preview APP
 
-<img src="image/preview.png" alt="preview" width="200px">
+<img src="image/preview.png" alt="preview" width="400px">
 
 A new Flutter project.
 
